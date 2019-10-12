@@ -1,4 +1,4 @@
-This repo serves to simplify working through the course across different computers, house notes taken via comments in source code and hold components that may be useful in future projects.
+This repo serves to simplify working through Stephen Grider's "Modern React with Redux" course on Udemy across different computers, house notes taken via comments in source code and hold components that may be useful in future projects.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
