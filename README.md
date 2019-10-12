@@ -1,5 +1,7 @@
 This repo serves to simplify working through Stephen Grider's "Modern React with Redux" course on Udemy across different computers, house notes taken via comments in source code and hold components that may be useful in future projects.
 
+Application displays season based on time of year and user's location.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
